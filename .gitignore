@@ -1,0 +1,17 @@
+RawDataset
+.ipynb_checkpoints
+__pycache__
+etcs
+Include
+Lib
+Scripts
+share
+training
+.idea
+.vscode
+pyvenv.cfg
+Dissertation/
+Reza*Files/
+assets/plots/
+venv
+.DS_Store
